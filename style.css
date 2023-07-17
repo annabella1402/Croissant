@@ -1,0 +1,17 @@
+body {
+  background-color: burlywood;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+a {
+  color: green;
+  text-align: center;
+}
+
+img {
+  border: 20px;
+}
